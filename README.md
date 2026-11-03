@@ -1,137 +1,17 @@
-<!--
-╔══════════════════════════════════════════════════════════════╗
-║  HƯỚNG DẪN CHO NGƯỜI MỚI (xóa phần này nếu muốn)             ║
-║                                                              ║
-║  1. Tìm chữ  YOUR_USERNAME  rồi thay bằng tên GitHub của bạn ║
-║  2. Sửa các dòng có chữ "SỬA:" thành thông tin của bạn       ║
-║  3. Dòng nào không cần thì xóa cả dòng đó đi                 ║
-║  4. Bấm "Commit changes" để lưu → xong!                      ║
-╚══════════════════════════════════════════════════════════════╝
--->
+</tbody>
+</table>
+<h3>Välkommen till <img src="https://image.flaticon.com/icons/svg/197/197564.svg" width="13"/> Stockholm!</h3>
+<p><img width="200" src="https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;107543629_416184569335292_4848287300918169564_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;108&amp;_nc_ohc&#x3D;E2s6Q2wLoeEAX9FHDEE&amp;oh&#x3D;b565d0d68a1e562095a90feb7b4af2c6&amp;oe&#x3D;5F394972" /> <img width="200" src="https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;108195944_620667555241789_934549344929996893_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;101&amp;_nc_ohc&#x3D;43-UQJAubcwAX-YYvfi&amp;oh&#x3D;4c79b85780cc53bfde99fea09a0fe65e&amp;oe&#x3D;5F395927" /> <img width="200" src="https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;107891402_723491365106300_1214576269932412401_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;108&amp;_nc_ohc&#x3D;wBDcOMYb7_oAX_QhljS&amp;oh&#x3D;8e934408b7f2b39e00fe47e3f08bd9ac&amp;oe&#x3D;5F3835CC" /></p>
+<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/visitstockholm/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @visitstockholm!</a><br/>Currently, the weather is : 15°C, <i>scattered clouds</i></br>Today, the sun rises at 03:57 and sets at 21:49.</p>
+<p><img width="200" src="https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;107543629_416184569335292_4848287300918169564_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;108&amp;_nc_ohc&#x3D;E2s6Q2wLoeEAX9oIsw-&amp;oh&#x3D;822b39d65d9b616e2f0c697aaa9b66e4&amp;oe&#x3D;5F394972" /> <img width="200" src="https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;108195944_620667555241789_934549344929996893_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;101&amp;_nc_ohc&#x3D;43-UQJAubcwAX8hbvwY&amp;oh&#x3D;e7b984ef8512d56ae2262bce5d42bf1c&amp;oe&#x3D;5F395927" /> <img width="200" src="https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;107891402_723491365106300_1214576269932412401_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;108&amp;_nc_ohc&#x3D;wBDcOMYb7_oAX8woktZ&amp;oh&#x3D;2a7173f81d213ff85ed1991dcb6b6e3d&amp;oe&#x3D;5F3835CC" /></p>
+<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/visitstockholm/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @visitstockholm!</a><br/>Currently, the weather is : 15°C, <i>few clouds</i></br>Today, the sun rises at 03:57 AM and sets at 09:49 PM.</p>
+<h3>Where to find me:</h3>
+<p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/github/followers/thmsgbrt.svg?label=GitHub&style=social" /></a> <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Github" src="https://img.shields.io/twitter/follow/Guibz16?label=Twitter&style=social" /></a> <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="Github" src="https://img.shields.io/badge/LinkedIn-My_Resume-__?style=social&logo=LinkedIn" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Medium-My_Stories-__?style=social&logo=Medium" /></a>
+</p>
 
-<!-- ============ 1. BANNER MỞ MÀN ============ -->
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=PLAYER%20ONE&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Press%20START%20to%20begin%20the%20adventure&descAlignY=58&descSize=18" alt="banner" />
 
-<!-- Chữ chạy gõ phím. SỬA: thay các câu sau dấu "lines=" (cách nhau bằng dấu ;) -->
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Xin+chào!+Mình+là+YOUR_NAME;Level+1+Developer+%F0%9F%8E%AE;Đang+học+code+mỗi+ngày...;Sẵn+sàng+nhận+nhiệm+vụ+mới!" alt="typing" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/PLAYER-YOUR_USERNAME-ff0055?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/LEVEL-1-00ff9c?style=for-the-badge&logo=starship&logoColor=black" />
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00c8ff?style=for-the-badge" />
-<img src="https://img.shields.io/badge/CLASS-NEWBIE-ffb300?style=for-the-badge" />
-
-</div>
-
----
-
-<!-- ============ 2. HỒ SƠ NHÂN VẬT ============ -->
-## 🧙 PLAYER PROFILE
-
-```text
-╔══════════════════════════════════════════╗
-║  👤 Tên nhân vật : Vu Quang Xuan        ║
-║  🏷️  Class        : SỬA: Game designer   ║
-║  📍 Vùng đất     : SỬA: Việt Nam          ║ ║
-║  ⚔️  Vũ khí       : SỬA: Python / JS       ║
-║  ❤️  HP           : ██████████ 100%        ║
-║  ⚡ MP           : ████████░░  80%        ║
-║  ⭐ EXP          : ███░░░░░░░  30%        ║
-╚══════════════════════════════════════════╝
-```
-
-> 💬 **Lời thoại nhân vật:** *"SỬA: Mỗi dòng code là một bước tiến trên con đường lên level!"*
-
----
-
-<!-- ============ 3. KỸ NĂNG ============ -->
-## 🛡️ INVENTORY — Trang bị & Kỹ năng
-
-<!-- Xóa những ô bạn chưa biết, thêm những thứ bạn biết. Đổi tên sau chữ "badge/" -->
-<div align="center">
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-
-</div>
-
-### 📈 Skill Tree (thanh kỹ năng)
-
-```text
-HTML/CSS    [████████░░] LV.8
-JavaScript  [█████░░░░░] LV.5
-Python      [██████░░░░] LV.6
-Git/GitHub  [████░░░░░░] LV.4
-```
-
----
-
-<!-- ============ 4. NHIỆM VỤ (DỰ ÁN) ============ -->
-## 🗺️ QUEST LOG — Nhiệm vụ đang làm
-
-| Trạng thái | Nhiệm vụ | Độ khó | Link |
-|:---:|---|:---:|:---:|
-| ✅ Hoàn thành | SỬA: Tên dự án 1 | ⭐ | [Xem](https://github.com/YOUR_USERNAME/ten-repo-1) |
-| 🔥 Đang làm | SỬA: Tên dự án 2 | ⭐⭐ | [Xem](https://github.com/YOUR_USERNAME/ten-repo-2) |
-| 🔒 Chưa mở khóa | SỬA: Dự án tương lai | ⭐⭐⭐ | — |
-
----
-
-<!-- ============ 5. THỐNG KÊ ============ -->
-## 📊 BATTLE STATS — Chỉ số chiến đấu
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true" />
-
-</div>
-
----
-
-<!-- ============ 6. THÀNH TÍCH ============ -->
-## 🏆 ACHIEVEMENTS — Thành tựu
-
-- [x] 🥉 **First Commit** — Đã tạo repo đầu tiên
-- [x] 🎨 **Style Master** — Đã trang trí README
-- [ ] 🥈 **Bug Hunter** — Sửa 10 lỗi
-- [ ] 🥇 **Project Finisher** — Hoàn thành 3 dự án
-- [ ] 💎 **Open Source Hero** — Đóng góp cho dự án người khác
-
----
-
-<!-- ============ 7. LIÊN HỆ ============ -->
-## 📮 JOIN MY PARTY — Kết nối với mình
-
-<div align="center">
-
-<!-- SỬA: thay link bằng link thật của bạn. Không dùng cái nào thì xóa dòng đó -->
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" /></a>
-<a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-Gửi_thư-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://facebook.com/YOUR_FACEBOOK"><img src="https://img.shields.io/badge/Facebook-Kết_bạn-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-
-<br><br>
-
-```text
- ╔═══════════════════════════════╗
- ║   🎮  THANKS FOR PLAYING!  🎮  ║
- ║      GAME OVER? NOT YET...     ║
- ║       ⭐ INSERT COIN ⭐        ║
- ╚═══════════════════════════════╝
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" alt="footer" />
-
-</div>
+------------
+<p align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: Wednesday, 15 July, 21:50 CEST</p>
+<p align="center">This README file is generated <b>every 3 hours</b>!</br>Last refresh: Wednesday, July 15, 9:52 PM GMT+2</p>
+<p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /></p>
