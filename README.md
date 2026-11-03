@@ -1,8 +1,8 @@
 # Xuan202204
 <div align="center">
 
-# 🎮 HI, I'M [TÊN HOẶC ALIAS CỦA BẠN]
-### **Game Designer & Creative Developer**
+# 🎮 HI, I'M [ Xuan ]
+### **Game Designer 
 *Bridging Mechanics, Visual Art & Player Psychology into Engaging Game Loops*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
