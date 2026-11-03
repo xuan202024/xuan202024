@@ -24,11 +24,12 @@
 
 ### 📖 ABOUT ME & CURRENT QUEST
 
-Xuất thân từ nền tảng **Đồ họa Đa phương tiện (Multimedia Graphics)** kết hợp kiến thức **Công nghệ Thông tin**, tôi tiếp cận Game Design với thế mạnh dung hòa giữa tư duy hệ thống logic và năng lực sản xuất đồ họa thực chiến (2D & 3D Art Pipeline).
+Chào mọi người, mình là một Game Designer xuất thân từ chuyên ngành Đồ họa Đa phương tiện và có nền tảng Công nghệ Thông tin. Điểm tựa này giúp mình tiếp cận việc làm game với góc nhìn cân bằng: vừa hiểu logic hệ thống, vừa cảm nhận tốt tính thẩm mỹ và trải nghiệm của người chơi.
 
-* 🎯 **Mục tiêu chuyên môn:** Thiết kế và phát triển các dòng game **Casual, Hyper-Casual & Hybrid-Casual** có cơ chế dễ tiếp cận, độ thỏa mãn thị giác cao (juicy feedback) và vòng lặp gameplay cuốn hút.
-* 🎨 **Kinh nghiệm Đồ họa 2D & 3D:** Trực tiếp tham gia dựng hình 3D (Props, Environment Modular Kits), tối ưu lưới/UV Texture trong Maya & Blender; thiết kế 2D Sprite Assets, hệ thống UI/UX và VFX hiệu ứng tương tác trực tiếp trong Engine.
-* 🚀 **Tư duy cốt lõi:** Làm cầu nối vững chắc giữa Art Team và Dev Team nhờ hiểu rõ quy trình tối ưu tài nguyên đồ họa (draw calls, texture atlas) song hành cùng logic code bản mẫu (rapid prototyping).
+* 🎯 **Định hướng Game Design:** Mình tập trung vào các dòng game **Casual, Hyper-Casual & Hybrid-Casual**. Trọng tâm của mình là xây dựng vòng lặp gameplay (core loop) cuốn hút, nhịp độ màn chơi (level pacing) hợp lý, và tạo ra các tương tác phản hồi nảy nở, thỏa mãn (juicy feedback) để giữ chân người chơi.
+* 🧩 **Tư duy thiết kế hệ thống:** Chủ động phân tích, bóc tách cấu trúc game (teardown), viết tài liệu thiết kế (GDD) rõ ràng, và tự tay dựng prototype nhanh trên Unity để kiểm chứng độ vui (fun factor) của gameplay ngay từ sớm.
+* 🎨 **Kinh nghiệm Đồ họa 2D & 3D:** Có nền tảng thực tế về dựng hình 3D (3D Modeling cho props, môi trường) trên Maya và Blender, đồng thời tự tay thiết kế 2D asset, wireframe và UI/UX tương tác trực quan cho màn hình dọc mobile.
+* 🚀 **Cầu nối trong team:** Nhờ hiểu cả ngôn ngữ đồ họa lẫn logic kỹ thuật, mình dễ dàng phối hợp ăn ý giữa Artist và Programmer, giúp ý tưởng gameplay được hiện thực hóa mượt mà và tối ưu nhất.
 
 ---
 
@@ -50,45 +51,47 @@ Xuất thân từ nền tảng **Đồ họa Đa phương tiện (Multimedia Gra
       <b>Core Competencies:</b><br><br>
       🎯 <b>Game Design & Mechanics:</b><br>
       • Core Loop Architecture • Level Pacing & Flow • Game Teardowns<br><br>
-      🎨 <b>2D & 3D Art Production:</b><br>
-      • 3D Modeling (Props/Environment) • UV & Texture Atlas • 2D Sprites<br><br>
-      ✨ <b>UX/UI & Game Feel:</b><br>
-      • Wireframing • Juicy Feedback/VFX • Intuitive Touch Controls<br><br>
+      🎨 <b>2D & 3D Production:</b><br>
+      • 3D Modeling (Props/Environment) • 2D Sprites • UI/UX Wireframing<br><br>
+      ✨ <b>Game Feel & Interaction:</b><br>
+      • Juicy Feedback • Intuitive Touch Controls • Mobile UX Flow<br><br>
       💻 <b>Engine & Prototyping:</b><br>
-      • Unity C# Scripting • Rapid Prototyping • Asset Optimization
+      • Unity C# Scripting • Rapid Prototyping • Asset Pipeline
     </td>
   </tr>
 </table>
 
 ---
 
-### 🧩 SKILL TREE & ARSENAL
+### 🧩 INVENTORY & TOOLS ARSENAL
+
+Dưới đây là các công cụ mình thường xuyên sử dụng trong quá trình làm việc và hiện thực hóa ý tưởng:
 
 <table>
   <tr>
-    <td align="center" width="33%">
-      <b>🎯 Game Design & Flow</b><br><br>
-      <img src="https://img.shields.io/badge/Core_Loops-FF6B6B?style=flat-square&logo=target&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/Level_Design-FFA502?style=flat-square"/><br>
-      <img src="https://img.shields.io/badge/Game_Teardowns-1E90FF?style=flat-square"/><br>
-      <img src="https://img.shields.io/badge/GDD_Documentation-5352ED?style=flat-square"/><br>
-      <img src="https://img.shields.io/badge/Game_Balancing-2ED573?style=flat-square"/>
+    <td width="33%" valign="top">
+      <b>🎮 Game Engine & Logic</b><br><br>
+      <img src="https://img.shields.io/badge/Unity-222F3E?style=flat-square&logo=unity&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/Git_&_GitHub-F05032?style=flat-square&logo=git&logoColor=white"/><br><br>
+      <i>Dựng prototype nhanh các cơ chế game, viết logic C# trong VS Code và quản lý mã nguồn qua Git.</i>
     </td>
-    <td align="center" width="33%">
-      <b>🎨 2D/3D Art & UI Pipeline</b><br><br>
+    <td width="33%" valign="top">
+      <b>🎨 3D Modeling Pipeline</b><br><br>
       <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white"/><br>
       <img src="https://img.shields.io/badge/Autodesk_Maya-37A5CC?style=flat-square&logo=autodesk&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/3D_Props-9B59B6?style=flat-square"/><br>
+      <img src="https://img.shields.io/badge/Environment_Blocks-2ED573?style=flat-square"/><br><br>
+      <i>Dựng hình 3D (3D Modeling) cho props, đồ vật giải đố và các khối môi trường dùng trong màn chơi.</i>
+    </td>
+    <td width="33%" valign="top">
+      <b>🖌️ 2D Art, UI/UX & GDD</b><br><br>
       <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white"/><br>
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/3D_Props_%26_UV-9B59B6?style=flat-square"/>
-    </td>
-    <td align="center" width="33%">
-      <b>💻 Engine & Logic</b><br><br>
-      <img src="https://img.shields.io/badge/Unity_2022_%2F_Unity_6-222F3E?style=flat-square&logo=unity&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/C%23_Scripting-239120?style=flat-square&logo=c-sharp&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/Git_&_GitHub-F05032?style=flat-square&logo=git&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/Rapid_Prototyping-FF4757?style=flat-square"/>
+      <img src="https://img.shields.io/badge/GDD_Writing-5352ED?style=flat-square"/><br>
+      <img src="https://img.shields.io/badge/UI_Wireframes-FFA502?style=flat-square"/><br><br>
+      <i>Thiết kế 2D sprite, wireframe luồng giao diện người dùng (UI/UX) và viết tài liệu phân tích hệ thống.</i>
     </td>
   </tr>
 </table>
